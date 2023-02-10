@@ -1,6 +1,6 @@
 # navdeep5.github.io
 
-Game Name:Overgrown
+Game Name: Overgrown
 
 Studio Name: Quokka Quest
 
