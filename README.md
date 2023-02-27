@@ -29,9 +29,9 @@ Brandon Fiogbe (Executive Producer)
 
 
 
-[Vertical Slice](/Vertical Slice/index.html)
+[Vertical_Slice](/Vertical_Slice/index.html)
 
-[Vertical Slice Download](Vertical Slice.zip)
+[Vertical_Slice Download](Vertical_Slice.zip)
 
 
 
