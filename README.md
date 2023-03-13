@@ -35,6 +35,10 @@ Brandon Fiogbe (Executive Producer)
 
 
 
+[BetaRelease](/BetaRelease/index.html)
+
+[BetaRelease Download](BetaRelease.zip)
+
 
 # Build setting
 mardown: kramdown
