@@ -45,7 +45,7 @@ Game Instructions:
 
 - Used WASD or Arrow Keys to move the player around
 
-- Upon seeing an interactable object, either click it or walk up to and press ENTER or SPACE
+- Upon seeing an interactable object, either click it or walk up to it and press ENTER or SPACE
 
 - The tutorial will give a breakdown of how to play the games/puzzles
 
