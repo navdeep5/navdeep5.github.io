@@ -56,7 +56,7 @@ Game Instructions:
 
 Beta Survery Link:
 
-https://docs.google.com/forms/d/1de95oXPXnI21PoQNagSGnB-GKWQymgYQLLJwqlu7xCI/viewform?edit_requested=true
+[Overgrown by Quokka Quest - Beta Survey](https://docs.google.com/forms/d/1de95oXPXnI21PoQNagSGnB-GKWQymgYQLLJwqlu7xCI/viewform?edit_requested=true)
 
 # Build setting
 mardown: kramdown
