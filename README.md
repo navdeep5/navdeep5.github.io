@@ -41,6 +41,12 @@ Brandon Fiogbe (Executive Producer)
 
 
 
+[GoldRelease](/GoldRelease/index.html)
+
+[GoldRelease Download](GoldRelease.zip)
+
+
+
 Game Instructions:
 
 - Used WASD or Arrow Keys to move the player around
